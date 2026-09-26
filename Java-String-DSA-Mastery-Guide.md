@@ -519,12 +519,3 @@ private int[] buildLPS(String pattern) {
 
 ---
 
-## How to Drill This
-
-Do one pattern a day:
-1. Solve the problem cold — no looking at the reference code.
-2. Check your solution against the reference.
-3. Note exactly where you got stuck (which method you forgot, which edge case you missed).
-4. Move to the next pattern only once you can write that pattern's code from memory in under 10 minutes.
-
-Before touching the keyboard on any new string problem, run through the **Quick Decision Checklist** in Part 2 — it will point you to the right pattern before you waste time on a brute-force approach that won't pass in an interview.
